@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Nov 10 01:57:14 2022
+# Process ID: 10412
+# Current directory: C:/Users/Asus/Desktop/New folder/vga_controller-main/vga_controller-main
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2552 C:\Users\Asus\Desktop\New folder\vga_controller-main\vga_controller-main\vga_controller.xpr
+# Log file: C:/Users/Asus/Desktop/New folder/vga_controller-main/vga_controller-main/vivado.log
+# Journal file: C:/Users/Asus/Desktop/New folder/vga_controller-main/vga_controller-main\vivado.jou
+# Running On: Anto, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 4, Host memory: 8477 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Asus/Desktop/New folder/vga_controller-main/vga_controller-main/vga_controller.xpr}
+update_compile_order -fileset sources_1
